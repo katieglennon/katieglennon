@@ -6,6 +6,8 @@ I'm a **Full-Stack Software Engineer** with expertise in **React**, **Node.js**,
 
 🌱 My mission is to create technology that drives sustainability and makes a difference in the world. With a blend of technical skills and product expertise, I'm passionate about building tools that blend innovation with purpose.
 
+🍲 Fridge Bingo is a full-stack web app I developed using React, Node.js, Express, and Knex. This AI-driven tool suggests recipes based on user-inputted ingredients, aiming to make cooking accessible, reduce food waste, and inspire creativity in the kitchen.
+
 📫 Reach me here on [LinkedIn](https://www.linkedin.com/in/katie-s-glennon/)
 
 
