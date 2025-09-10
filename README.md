@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Katie
 
-I'm a **Full-Stack Software Engineer** with professional experience building applications using **TypeScript, Node.js, Vue.js, Nuxt, Express.js, PostgreSQL, and MongoDB**. My expertise extends to **React**, **Python**, **Node.js**, **Express**, **MySQL**, and **Knex**.
+I'm a **Full-Stack Software Engineer** with professional experience building applications using **TypeScript, Node.js, Vue.js, Nuxt, Express.js, PostgreSQL, and MongoDB**. I also have expertise with **React**, **Python**, **Node.js**, **Express**, **MySQL**, and **Knex**.
 
-Recently, I worked as a **Junior Full-Stack Engineer at Relevance AI in Sydney**, where I developed new features and improved applications across the front end and back end.  
+Recently, I worked as a **Junior Full-Stack Engineer at Relevance AI in Sydney**, where I contributed to both front-end and back-end development, delivering new features and improving applications.  
 
 💡 With 5+ years of prior experience as a **Product Manager in renewable energy tech**, I bring a unique ability to bridge product strategy with technical execution.  
 
