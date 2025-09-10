@@ -1,14 +1,16 @@
 ## Hi there 👋 I'm Katie
 
-I'm a **Full-Stack Software Engineer** with expertise in **React**, **Node.js**, **Express**, **MySQL**, and **Knex**. Lately, I've been diving into **Python** to expand my technical toolkit.
+I'm a **Full-Stack Software Engineer** with professional experience building applications using **TypeScript, Node.js, Vue.js, Nuxt, Express.js, PostgreSQL, and MongoDB**. My expertise extends to **React**, **Python**, **Node.js**, **Express**, **MySQL**, and **Knex**.
 
-💡 Before transitioning into software engineering, I spent over five years as a **Product Manager** in the renewable energy tech space. This background gives me a unique perspective: I deeply understand the entire product lifecycle—from strategic vision to technical execution—and excel at delivering user-focused, impactful solutions.
+Recently, I worked as a **Junior Full-Stack Engineer at Relevance AI in Sydney**, where I developed new features and improved applications across the front end and back end.  
 
-🌱 My mission is to create technology that drives sustainability and makes a difference in the world. With a blend of technical skills and product expertise, I'm passionate about building tools that blend innovation with purpose.
+💡 With 5+ years of prior experience as a **Product Manager in renewable energy tech**, I bring a unique ability to bridge product strategy with technical execution.  
 
-🍲 Fridge Bingo is a full-stack web app I developed using React, Node.js, Express, and Knex. This AI-driven tool suggests recipes based on user-inputted ingredients, aiming to make cooking accessible, reduce food waste, and inspire creativity in the kitchen.
+🌱 Passionate about sustainability and impact-driven software, I enjoy building tools that blend innovation with purpose.
 
-📫 Reach me here on [LinkedIn](https://www.linkedin.com/in/katie-s-glennon/)
+🍲 Featured Project: **Fridge Bingo** – a full-stack web app that reduces food waste by suggesting recipes from user-inputted ingredients (React, Node.js, Express, Knex).
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/katie-s-glennon/)
 
 
 
